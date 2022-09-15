@@ -33,7 +33,6 @@ fun playSound(file: String) {
 
 
 fun main() {
-    println("Hello World!")
 
     playBeats("x-x-x-x-x-x-", "toms.aiff")
     playBeats("x-----x-----х", "crash_cymbal.aiff")
